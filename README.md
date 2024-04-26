@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AWS production level architecture for deployement**
 
-- 🌱 I’m currently learning **RHCE, AWS, JAVA, DevOps, SPRING BOOT, DBMS**
+- 🌱 I’m currently learning **RHCE, SHELL SCRIPTING, AWS, JAVA, DevOps, SPRING BOOT, DBMS**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pranav-lahitkar/](https://www.linkedin.com/in/pranav-lahitkar/)
 
