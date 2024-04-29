@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav A. Lahitkar</h1>
-<h3 align="center">Cloud and DevOps enthusiast</h3>
+<h3 align="center">Good in C, JAVA, Cloud Computing and DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavlahitkar&label=Profile%20views&color=0e75b6&style=flat" alt="pranavlahitkar" /> </p>
 
